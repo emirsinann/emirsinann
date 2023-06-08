@@ -5,9 +5,8 @@
 - 📫 How to reach me :
 -     mail: emirsinanisler0715@gmail.com
 -     phone: +90 (539) 109 90 73
--     social media:
--       instagram: @em.rsinan
--       linkedIn: https://www.linkedin.com/in/emir-sinan-i%C5%9Fler-6895401a9/
+-     instagram: @em.rsinan
+-     linkedIn: https://www.linkedin.com/in/emir-sinan-i%C5%9Fler-6895401a9/
 
 <!---
 emirsinann/emirsinann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
