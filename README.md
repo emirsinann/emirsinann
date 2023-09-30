@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirsinann
 - 👀 I’m interested in software developing and computer games.
-- 🌱 I’m currently learning React Native, PHP
+- 🌱 I’m currently learning Javascript React.
 - 💞️ I’m looking to collaborate on developing games and web projects.
 - 📫 How to reach me :
 -     mail: emirsinanisler0715@gmail.com
